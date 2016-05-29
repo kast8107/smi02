@@ -1,5 +1,5 @@
 <table>
 <tr>hallo</tr>
-<tr>zeile 3 + Weitere</tr>
+<tr>zeile 3</tr>
 <tr>Zeile 4</tr>
 </table>
